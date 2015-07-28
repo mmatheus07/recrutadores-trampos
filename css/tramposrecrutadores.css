@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+
+div.container {
+  width:100%;
+  background-image:url("../img/bg1.png");
+}
+
+div.container2 {
+  width:100%;
+  background-image: url("../img/bg2.png");
+}
+
+h2 {
+  margin:0;
+}
+
+div.content {
+  
+}
