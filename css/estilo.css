@@ -1,0 +1,48 @@
+body {
+  margin: 0; }
+
+img {
+  width: 100%; }
+
+.background {
+  background-image: url("../img/bg1.png");
+  padding: 65px 0 65px 0; }
+
+.background2 {
+  background-image: url("../img/bg2.png");
+  padding: 65px 0 65px 0; }
+
+h2 {
+  font-family: "Roboto Slab";
+  font-weight: 300;
+  line-height: 40px;
+  margin-top: 0; }
+
+p {
+  font-family: "Source Sans Pro";
+  font-size: 14pt;
+  font-weight: 300;
+  margin-top: 20px;
+  margin-bottom: 20px; }
+
+.text {
+  padding: 65px 70px 65px 0; }
+
+.margin {
+  padding-left: 70px; }
+
+.margin2 {
+  padding-right: 70px;
+  padding-left: 70px;
+  padding-top: 40px; }
+
+a {
+  text-transform: uppercase;
+  color: #55ccb0;
+  font-family: "Source Sans Pro";
+  font-size: 13pt;
+  font-weight: 700;
+  letter-spacing: 1px; }
+
+a:hover {
+  color: #55ccb0; }
